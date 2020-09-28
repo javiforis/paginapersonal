@@ -1,4 +1,4 @@
-/*
+
 let name = "Miguel Angel"; prompt("¿Cuál es tu nombre?");
 let password = "iknowkungfu"; prompt("¿Cuál es tu contraseña?");
 
